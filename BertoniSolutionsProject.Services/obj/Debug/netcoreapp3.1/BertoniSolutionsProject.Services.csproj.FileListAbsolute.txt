@@ -1,0 +1,12 @@
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.deps.json
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.dll
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.pdb
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.dll
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.pdb
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.csproj.CopyComplete
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.dll
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Services\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Services.pdb

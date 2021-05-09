@@ -1,0 +1,9 @@
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.deps.json
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.dll
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\bin\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.pdb
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.dll
+C:\Users\carlo\Desktop\Bertoni Solutions Project\BertoniSolutionsProject\BertoniSolutionsProject.Entities\obj\Debug\netcoreapp3.1\BertoniSolutionsProject.Entities.pdb

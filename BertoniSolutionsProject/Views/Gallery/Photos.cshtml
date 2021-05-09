@@ -1,0 +1,77 @@
+﻿@model IEnumerable<BertoniSolutionsProject.ViewModels.PhotoVM>
+
+@{ ViewData["Title"] = "Photos"; }
+
+<div class="container">
+    <h1>Photo List</h1>
+    @{int i = 0;}
+    @foreach (var item in Model)
+    {
+        <div class="row" style="height:100px !important">
+            <div class="col-12">
+                <ul class="list-group" style="width: 100%;">
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        @Html.DisplayFor(items => item.Id) &nbsp;&nbsp;
+                        <div class="image-parent justify-content-between">
+                            <img src="@Html.DisplayFor(items => item.ThumbnailUrl)" style="width:60px; height:70px;" class="img-fluid" alt="quixote">
+                        </div>
+                        <div>@Html.DisplayFor(items => item.Title)</div>
+
+                        <button class="btn btn-primary ml-auto" style="background-color:#333 !important;" type="button" data-toggle="collapse" data-target="#collapseOne_@i" aria-expanded="false" aria-controls="collapseOne_@i">Show comments</button>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <table class="table collapse " id="collapseOne_@i">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>
+                            Id
+                        </th>
+                        <th>
+                            Name
+                        </th>
+                        <th>
+                            Body
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody style="background-color:#fff; width:100%;">
+                    @foreach (var photo in item.Comments)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(item => photo.Id)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(item => photo.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(item => photo.Body)
+                            </td>
+                            <td></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        i++;
+    }
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
